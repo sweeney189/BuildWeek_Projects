@@ -1,18 +1,12 @@
 # BuildWeek_Projects
-## Hi there 👋
-
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello!;I'm+Maurizio%2C+a+cybersecurity+specialist+%E2%9C%A9" width="70%" />
 <br><br>
 <pre>
     
-👋 Welcome to my GitHub!
-Here you'll find my projects, hands-on tutorials, and plenty of other useful material.
+👋 Welcome to my Buildweek Page!
 
-🌐 Resources and Projects:
-You can click on this link to gain access to my [GitHub.io](https://sweeney189.github.io/),
-in case of problems feel free to contact me on the social networks 
-which you find below.
+Here you can find all the projects I did during my epicode course.
 
 Feel free to explore and contribute!
 </pre>
