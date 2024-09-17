@@ -17,7 +17,7 @@ which you find below.
 Feel free to explore and contribute!
 </pre>
 <br><br>
-<img src="https://github.com/sweeney189/sweeney189/blob/2dfc218769f712dbd1c482cc072bf4f5ec22da71/Shield.gif" height="350" />
+<img src="https://github.com/sweeney189/BuildWeek_Projects/blob/328ec66a040b4648c5542a01185f5600769e936b/Shield.gif" height="350" />
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2?logo=linkedin)](https://www.linkedin.com/in/mauriziomarcantoni/)
